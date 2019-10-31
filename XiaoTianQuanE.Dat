@@ -1,0 +1,31 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~XiaoTianQuanE.PrjPCB|ReportField=ProjectFullPath~D:\Projects\Andromeda\XiaoTianQuanE\XiaoTianQuanE.PrjPCB|ReportField=Title~Bill of Materials For Project [XiaoTianQuanE.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~16:09:14|ReportField=ReportDate~2019-07-02|ReportField=ReportDateTime~2019-07-02 16:09:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~52|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Poteko Sakamoto|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019-07-02|ReportField=CurrentTime~16:09:07|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Projects\Andromeda\XiaoTianQuanE\Peripherals.SchDoc|ReportField=DocumentName~Peripherals.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Poteko Sakamoto|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019-07-02|ReportField=Organization~|ReportField=ProjectName~XiaoTianQuanE.PrjPCB|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Motor Controller|ReportField=DataSourceFileName~XiaoTianQuanE.PrjPCB|ReportField=DataSourceFullPath~D:\Projects\Andromeda\XiaoTianQuanE\XiaoTianQuanE.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|220uF|Conductive Polymer Hybrid Aluminum Electrolytic Capacitor, 220 uF, +/- 20%, 50 V, -55 to 105 degC, 2-Pin SMD (G), RoHS, Tape and Reel|C1|PNSC-ZA-G_L|CMP-2000-06221-1|1
+2|100nF|CAP 100nF 50V ±10% 0603 (1608 Metric) Thickness 1mm SMD|C2, C3, C4, C6, C7|CAPC0603(1608)100_M|CMP-1035-02592-1|5
+3|220nF|CAP 220nF 16V ±10% 0603 (1608 Metric) Thickness 1mm SMD|C5|CAPC0603(1608)100_M|CMP-1035-02644-1|1
+4|22uF|Capacitor, Tantalum, 22 uF, +/- 10%, 16 V, -55 to 125 degC, 2-Pin SMD (1206), RoHS, Tape and Reel|C8|KEMT-A-3216-18-2_M|CMP-2000-05173-1|1
+5|22uF|CAP 22uF 10V ±10% 0805 (2012 Metric) Thickness 1.45mm SMD|C9|CAPC0805(2012)145_L|CMP-1036-04942-1|1
+6|SS14-E3/5AT|Schottky Barrier Rectifier, 40 V Maximum DC Blocking Voltage, -65 to 125 degC, 2-Pin SMA Case, RoHS|D1|VISH-DO-214AC-2_V|CMP-0549-00004-1|1
+7|TCA9517DR|Integrated Circuit|IC1|SOIC127P600X175-8N|TCA9517DR|1
+8|PWR|DC Power Jack, 24 V, 3.5 A, -25 to 85 degC, 3-Pin THD, RoHS|J1|KYCN-KLDX-0202-A_V|CMP-1673-00001-5|1
+9|Controller Status|SMD mono-color Chip LED, WL-SMCW, Blue|LED1|0805_A|CMP-1426-00008-1|1
+10|Power 3V3|SMD mono-color Chip LED, WL-SMCW, Green|LED2|0805_A|CMP-1426-00007-1|1
+11|Power 5V|SMD mono-color Chip LED, WL-SMCW, Green|LED3|0805_A|CMP-1426-00007-1|1
+12|Motor -|Header, 3-Pin|P1|HDR1X3|Header 3|1
+13|Motor +|Header, 3-Pin|P2|HDR1X3|Header 3|1
+14|Rotate Signal|Header, 2-Pin|P3|HDR1X2|Header 2|1
+15|Data|Header, 4-Pin, Dual row|P4|HDR2X4_CEN|Header 4X2A|1
+16|TPI|Header, 3-Pin, Dual row|P5|HDR2X3|Header 3X2|1
+17|2N7002|N-Channel OptiMOS Small-Signal-Transistor, 60 V VDS, 0.3 A ID, -55 to 150 degC, PG-SOT23, Reel, Green|Q1, Q5|INF-PG-SOT23_M|CMP-1149-00026-1|2
+18|NTR4003NT1G|Small Signal MOSFET, 30 V, 0.56 A, Single N-Channe, 3-Pin SOT-23, Pb-Free, Tape and Reel|Q2, Q3, Q4|ONSC-SOT-23-3-318-08_V|CMP-1058-00759-1|3
+19|5K1 5% 0603(1608)|5K1 0.1W 5% 0603 (1608 Metric)  SMD|R1, R5, R6, R7, R13, R24|RESC0603(1608)_N|CMP-1012-00091-1|6
+20|27R 5% 0603(1608)|27R 0.1W 5% 0603 (1608 Metric)  SMD|R2, R3, R4|RESC0603(1608)_M|CMP-1012-00036-1|3
+21|10K 5% 0603(1608)|10K 0.1W 5% 0603 (1608 Metric)  SMD|R8, R15, R16, R18, R19|RESC0603(1608)_N|CMP-1012-00098-1|5
+22|2K 1% 0603(1608)|2K 0.1W 1% 0603 (1608 Metric)  SMD|R9, R10|RESC0603(1608)_N|CMP-1012-00542-1|2
+23|3K9 1% 0603(1608)|3K9 0.1W 1% 0603 (1608 Metric)  SMD|R11, R12|RESC0603(1608)_N|CMP-1012-00576-1|2
+24|3K3 5% 0603(1608)|3K3 0.1W 5% 0603 (1608 Metric)  SMD|R14, R17|RESC0603(1608)_N|CMP-1012-00086-1|2
+25|4K7 5% 0603(1608)|4K7 0.1W 5% 0603 (1608 Metric)  SMD|R20|RESC0603(1608)_N|CMP-1012-00090-1|1
+26|270R 5% 0603(1608)|270R 0.1W 5% 0603 (1608 Metric)  SMD|R21, R23|RESC0603(1608)_N|CMP-1012-00060-1|2
+27|160R 5% 0603(1608)|160R 0.1W 5% 0603 (1608 Metric)  SMD|R22|RESC0603(1608)_L|CMP-1012-00055-1|1
+28|ATtiny20-SSU|8-bit AVR Microcontroller, 1.8-5.5V, 12MHz, 2KB Flash, 128 Bytes SRAM, 12 GPIO pins, 14-pin SOIC, Industrial Grade (-40°C to 85°C), Pb-Free|U1|14S1_M|CMP-0093-00150-2|1
+29|LM7805SX/NOPB|Fixed Voltage Regulator, 1.5 A, 3-Pin TO-263 (KTT), Pb-Free (RoHS Exempt), Tube|U2|KTT0003B_M|CMP-2000-07590-1|1
+30|AMS1117-3.3|800mA Low-Dropout Linear Regulator, 4-pin SOT-223|U3|DCY0004A_N|CMP-0062-01659-4|1
